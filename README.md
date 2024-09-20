@@ -45,7 +45,7 @@ The platform consists of the following components:
 
 1. Clone the repository:
     ```bash
-    [git clone https://github.com/your-username/platform-monitoring.git](https://github.com/rayen0001/Go-monitoring.git)
+    git clone https://github.com/your-username/platform-monitoring.git
     cd platform-monitoring
     ```
 
